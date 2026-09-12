@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="520" viewBox="0 0 920 520">
+<rect x="0.00" y="0.00" width="920.00" height="520.00" fill="white" stroke="none"/>
+<text x="460.00" y="30.00" font-family="Arial, sans-serif" font-size="18" fill="#222222" text-anchor="middle">Core MKHSS Backend Procedure Latency</text>
+<line x1="92.00" y1="58.00" x2="92.00" y2="412.00" stroke="#222222" stroke-width="1.2"/>
+<line x1="92.00" y1="412.00" x2="888.00" y2="412.00" stroke="#222222" stroke-width="1.2"/>
+<line x1="92.00" y1="412.00" x2="888.00" y2="412.00" stroke="#D9D9D9" stroke-width="1"/>
+<text x="82.00" y="416.00" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="end">1</text>
+<line x1="92.00" y1="360.33" x2="888.00" y2="360.33" stroke="#D9D9D9" stroke-width="1"/>
+<text x="82.00" y="364.33" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="end">3</text>
+<line x1="92.00" y1="285.94" x2="888.00" y2="285.94" stroke="#D9D9D9" stroke-width="1"/>
+<text x="82.00" y="289.94" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="end">10</text>
+<line x1="92.00" y1="218.05" x2="888.00" y2="218.05" stroke="#D9D9D9" stroke-width="1"/>
+<text x="82.00" y="222.05" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="end">30</text>
+<line x1="92.00" y1="143.66" x2="888.00" y2="143.66" stroke="#D9D9D9" stroke-width="1"/>
+<text x="82.00" y="147.66" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="end">100</text>
+<line x1="92.00" y1="75.78" x2="888.00" y2="75.78" stroke="#D9D9D9" stroke-width="1"/>
+<text x="82.00" y="79.78" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="end">300</text>
+<text x="136.22" y="454.00" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="middle" transform="rotate(-35 136.22222222222223 454)">CRS</text>
+<rect x="106.22" y="221.22" width="26.00" height="190.78" fill="#0072B2" stroke="none"/>
+<rect x="136.22" y="86.57" width="26.00" height="325.43" fill="#E69F00" stroke="none"/>
+<text x="224.67" y="454.00" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="middle" transform="rotate(-35 224.66666666666669 454)">KeyGen</text>
+<rect x="194.67" y="307.97" width="26.00" height="104.03" fill="#0072B2" stroke="none"/>
+<rect x="224.67" y="140.94" width="26.00" height="271.06" fill="#E69F00" stroke="none"/>
+<text x="313.11" y="454.00" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="middle" transform="rotate(-35 313.11111111111114 454)">Share</text>
+<rect x="283.11" y="369.17" width="26.00" height="42.83" fill="#0072B2" stroke="none"/>
+<rect x="313.11" y="284.11" width="26.00" height="127.89" fill="#E69F00" stroke="none"/>
+<text x="401.56" y="454.00" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="middle" transform="rotate(-35 401.55555555555554 454)">Init A</text>
+<rect x="371.56" y="336.66" width="26.00" height="75.34" fill="#0072B2" stroke="none"/>
+<rect x="401.56" y="145.92" width="26.00" height="266.08" fill="#E69F00" stroke="none"/>
+<text x="490.00" y="454.00" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="middle" transform="rotate(-35 490.0 454)">Init B</text>
+<rect x="460.00" y="358.30" width="26.00" height="53.70" fill="#0072B2" stroke="none"/>
+<rect x="490.00" y="186.12" width="26.00" height="225.88" fill="#E69F00" stroke="none"/>
+<text x="578.44" y="454.00" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="middle" transform="rotate(-35 578.4444444444443 454)">Sync S</text>
+<rect x="548.44" y="412.00" width="26.00" height="0.00" fill="#0072B2" stroke="none"/>
+<rect x="578.44" y="326.34" width="26.00" height="85.66" fill="#E69F00" stroke="none"/>
+<text x="666.89" y="454.00" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="middle" transform="rotate(-35 666.8888888888888 454)">Sync R</text>
+<rect x="636.89" y="391.89" width="26.00" height="20.11" fill="#0072B2" stroke="none"/>
+<rect x="666.89" y="173.40" width="26.00" height="238.60" fill="#E69F00" stroke="none"/>
+<text x="755.33" y="454.00" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="middle" transform="rotate(-35 755.3333333333333 454)">Mult</text>
+<rect x="725.33" y="328.76" width="26.00" height="83.24" fill="#0072B2" stroke="none"/>
+<rect x="755.33" y="93.66" width="26.00" height="318.34" fill="#E69F00" stroke="none"/>
+<text x="843.78" y="454.00" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="middle" transform="rotate(-35 843.7777777777777 454)">Convert</text>
+<rect x="813.78" y="339.54" width="26.00" height="72.46" fill="#0072B2" stroke="none"/>
+<rect x="843.78" y="111.68" width="26.00" height="300.32" fill="#E69F00" stroke="none"/>
+<rect x="102.00" y="58.00" width="13.00" height="13.00" fill="#0072B2" stroke="none"/>
+<text x="122.00" y="69.00" font-family="Arial, sans-serif" font-size="12" fill="#222222" text-anchor="start">Optimized</text>
+<rect x="102.00" y="78.00" width="13.00" height="13.00" fill="#E69F00" stroke="none"/>
+<text x="122.00" y="89.00" font-family="Arial, sans-serif" font-size="12" fill="#222222" text-anchor="start">Baseline</text>
+<text x="24.00" y="235.00" font-family="Arial, sans-serif" font-size="13" fill="#222222" text-anchor="middle" transform="rotate(-90 24 235.0)">Time (ms, log scale)</text>
+</svg>

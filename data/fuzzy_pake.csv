@@ -1,0 +1,6 @@
+procedure_key,procedure,ours_ms,baseline_ms,reported_speedup,phase
+setup,Setup,30.4,270.0,8.9,setup
+attr_keygen,AttrKeyGen,214.0,700.0,3.3,key_generation
+attr_keyder,AttrKeyDer,7350.0,252000.0,34.0,key_derivation
+complete_exchange,Complete exchange,7560.0,252000.0,33.0,end_to_end
+

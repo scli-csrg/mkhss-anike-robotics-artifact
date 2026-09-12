@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="520" viewBox="0 0 920 520">
+<rect x="0.00" y="0.00" width="920.00" height="520.00" fill="white" stroke="none"/>
+<text x="460.00" y="30.00" font-family="Arial, sans-serif" font-size="18" fill="#222222" text-anchor="middle">SwarmGate Public Encoding Communication</text>
+<line x1="92.00" y1="58.00" x2="92.00" y2="412.00" stroke="#222222" stroke-width="1.2"/>
+<line x1="92.00" y1="412.00" x2="888.00" y2="412.00" stroke="#222222" stroke-width="1.2"/>
+<line x1="92.00" y1="341.20" x2="888.00" y2="341.20" stroke="#D9D9D9" stroke-width="1"/>
+<text x="82.00" y="345.20" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="end">360</text>
+<line x1="92.00" y1="270.40" x2="888.00" y2="270.40" stroke="#D9D9D9" stroke-width="1"/>
+<text x="82.00" y="274.40" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="end">720</text>
+<line x1="92.00" y1="199.60" x2="888.00" y2="199.60" stroke="#D9D9D9" stroke-width="1"/>
+<text x="82.00" y="203.60" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="end">1080</text>
+<line x1="92.00" y1="128.80" x2="888.00" y2="128.80" stroke="#D9D9D9" stroke-width="1"/>
+<text x="82.00" y="132.80" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="end">1440</text>
+<line x1="92.00" y1="58.00" x2="888.00" y2="58.00" stroke="#D9D9D9" stroke-width="1"/>
+<text x="82.00" y="62.00" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="end">1800</text>
+<text x="291.00" y="454.00" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="middle" transform="rotate(-35 291.0 454)">Geolocation</text>
+<rect x="261.00" y="352.78" width="26.00" height="59.22" fill="#0072B2" stroke="none"/>
+<text x="274.00" y="347.78" font-family="Arial, sans-serif" font-size="10" fill="#0072B2" text-anchor="middle">301.1</text>
+<rect x="291.00" y="234.35" width="26.00" height="177.65" fill="#E69F00" stroke="none"/>
+<text x="304.00" y="229.35" font-family="Arial, sans-serif" font-size="10" fill="#E69F00" text-anchor="middle">903.3</text>
+<text x="689.00" y="454.00" font-family="Arial, sans-serif" font-size="11" fill="#222222" text-anchor="middle" transform="rotate(-35 689.0 454)">Fuzzy PAKE</text>
+<rect x="659.00" y="302.63" width="26.00" height="109.37" fill="#0072B2" stroke="none"/>
+<text x="672.00" y="297.63" font-family="Arial, sans-serif" font-size="10" fill="#0072B2" text-anchor="middle">556.1</text>
+<rect x="689.00" y="83.90" width="26.00" height="328.10" fill="#E69F00" stroke="none"/>
+<text x="702.00" y="78.90" font-family="Arial, sans-serif" font-size="10" fill="#E69F00" text-anchor="middle">1668.3</text>
+<rect x="102.00" y="58.00" width="13.00" height="13.00" fill="#0072B2" stroke="none"/>
+<text x="122.00" y="69.00" font-family="Arial, sans-serif" font-size="12" fill="#222222" text-anchor="start">Optimized</text>
+<rect x="102.00" y="78.00" width="13.00" height="13.00" fill="#E69F00" stroke="none"/>
+<text x="122.00" y="89.00" font-family="Arial, sans-serif" font-size="12" fill="#222222" text-anchor="start">Baseline</text>
+<text x="24.00" y="235.00" font-family="Arial, sans-serif" font-size="13" fill="#222222" text-anchor="middle" transform="rotate(-90 24 235.0)">Public encoding size (kB)</text>
+</svg>

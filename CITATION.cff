@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "SwarmGate Robotics Artifact"
+message: "Please replace placeholder author metadata before public release."
+type: software
+authors:
+  - family-names: "Author"
+    given-names: "First"
+repository-code: "https://github.com/scli-csrg/mkhss-anike-robotics-artifact"
+abstract: "Datasets and standard-library scripts for reproducing the SwarmGate robotics evaluation figures and deployment-derived tables."
+license: "NOASSERTION"

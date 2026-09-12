@@ -1,0 +1,7 @@
+policy,encoding_kb,link_label,link_kbps,transfer_s,derivation
+Geolocation,301.1,10 Mbps,10000,0.24088,transfer_s = encoding_kb * 8 / link_kbps
+Geolocation,301.1,2 Mbps,2000,1.20440,transfer_s = encoding_kb * 8 / link_kbps
+Geolocation,301.1,125 kbps,125,19.27040,transfer_s = encoding_kb * 8 / link_kbps
+Fuzzy PAKE,556.1,10 Mbps,10000,0.44488,transfer_s = encoding_kb * 8 / link_kbps
+Fuzzy PAKE,556.1,2 Mbps,2000,2.22440,transfer_s = encoding_kb * 8 / link_kbps
+Fuzzy PAKE,556.1,125 kbps,125,35.59040,transfer_s = encoding_kb * 8 / link_kbps

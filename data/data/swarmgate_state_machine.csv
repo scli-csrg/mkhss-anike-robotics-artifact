@@ -1,0 +1,6 @@
+state,required_checks,accept_transition,reject_transition
+Enroll,"CRS, policy version, epoch, and device credential are valid","Store local key state and context","Refuse enrollment and request fleet context refresh"
+Encode,"Attribute report verifies for device, policy, session, epoch, and version","Publish public encoding with signed context metadata","Output bottom; no public encoding is released"
+Fetch,"Peer metadata matches local policy version and epoch","Load peer public encoding for context checks","Discard stale or mismatched encoding"
+Derive,"Peer is not revoked and context matches session, epoch, and version","Run MKHSS evaluation and derive the session key","Output bottom before predicate evaluation"
+Refresh,"Epoch or policy changes, or revocation list is updated","Generate fresh encodings under the new context","Expire old encodings and reject old sessions"

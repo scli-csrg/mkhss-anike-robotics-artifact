@@ -1,5 +1,0 @@
-approach,rounds,trust,privacy
-PKI,One,CA,Identity
-MPC,Many,None,Predicate
-Blockchain,Ongoing,Committee,Audit
-SwarmGate,Zero after CRS,CRS + reports,Predicate

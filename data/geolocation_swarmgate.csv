@@ -1,0 +1,7 @@
+procedure_key,procedure,ours_ms,ours_s,reported_speedup,baseline_ms_implied,phase
+setup,Setup,30.8,0.0308,8.4,258.72,setup
+attr_keygen_a,AttrKeyGen A,64.0,0.064,4.0,256.0,key_generation
+attr_keygen_b,AttrKeyGen B,91.8,0.0918,3.9,358.02,key_generation
+attr_keyder_a,AttrKeyDer A,1560.0,1.56,34.0,53040.0,key_derivation
+attr_keyder_b,AttrKeyDer B,1470.0,1.47,34.0,49980.0,key_derivation
+complete_exchange,Complete exchange,1650.0,1.65,33.0,54450.0,end_to_end
